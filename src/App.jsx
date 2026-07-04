@@ -1,7 +1,6 @@
 import './App.css'
 import SearchIcon from './assets/images/search-line (2).svg'
 import UserIcon from './assets/images/user-line (1).svg'
-import GlobalIcon from './assets/images/global-line.svg'
 import SunIcon from './assets/images/sun-line.svg'
 import MoonIcon from './assets/images/moon-line.svg'
 import Prezident from './assets/images/prezident.png'
